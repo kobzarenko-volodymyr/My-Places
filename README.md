@@ -3,6 +3,7 @@
 
 Pet Project built with Node.js, React, Express, MongoDB
 
+![1-min](https://user-images.githubusercontent.com/26285395/132094986-34a7d5c8-d810-42d1-9555-018530765304.gif)
 
 #### Live Project Link: https://my-places-mern-64298.web.app
 
